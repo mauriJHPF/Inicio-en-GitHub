@@ -1,4 +1,4 @@
-# proyecto de pagina web
+# Proyecto de pagina web
 - Almacenamiento de recursos
 - Plantillas
 - Imagenes
