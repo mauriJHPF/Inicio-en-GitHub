@@ -170,6 +170,4 @@ Es la etiqueta que representa  a la barra de navegación.
 
 [^1]: Etiqueta nav
 
-[![](rgmauri00@gmail.com)](http://www.gmail.com)
-
 
