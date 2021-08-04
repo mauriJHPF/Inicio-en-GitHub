@@ -1,2 +1,5 @@
-# hello-word
-Almacenamiento de recursos
+# proyecto de pagina web
+- Almacenamiento de recursos
+- Plantillas
+- Imagenes
+- Datos
